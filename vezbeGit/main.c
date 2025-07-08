@@ -9,11 +9,11 @@ int Razlika(int x, int y) {
 
 int main() {
     int a = 3;
-	int b = 8;
-	int c;
- 
+    int b = 8;
+    int c;
+
     c = Razlika(a, b);
-    
+
 	printf("Rezultat je: %d \n", c);
 
 	return 0;
